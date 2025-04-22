@@ -4,7 +4,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap" rel="stylesheet">
 </head>
 <body>
-<h1 class="Title" style="font-family: 'Tektur'">Sup netizen, looking around?</h1>
+<h1 class="Title" style="font-family: 'Tektur';">Sup netizen, looking around?</h1>
 <img src="https://github.com/0xAquora/0xAquora/blob/main/assets/fondo-animado.gif" alt="Aquora banner"/>
 </body>
 
