@@ -5,8 +5,8 @@
 <h1 class="Title">Sup netizen, looking around?</h1>
 <img src="https://github.com/0xAquora/0xAquora/blob/main/assets/fondo-animado.gif" alt="Aquora banner"/>
 
-
-.tektur-<uniquifier> {
+<style>
+.Title{
   font-family: "Tektur", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -14,6 +14,8 @@
   font-variation-settings:
     "wdth" 100;
 }
+</style>
+
 
 <!--
 **0xAquora/0xAquora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
