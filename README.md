@@ -1,7 +1,5 @@
-## Hi there 👋
-<div align=center>
-  <img src="https://github.com/0xAquora/0xAquora/blob/main/assets/fondo-animado.gif" alt="Aquora banner"/>
-</div>
+<img src="https://github.com/0xAquora/0xAquora/blob/main/assets/fondo-animado.gif" alt="Aquora banner"/>
+
 <!--
 **0xAquora/0xAquora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
