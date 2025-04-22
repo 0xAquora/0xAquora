@@ -1,12 +1,6 @@
-<head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap" rel="stylesheet">
-</head>
-<body>
-<h1 class="Title" style="font-family:'Tektur';">Sup netizen, looking around?</h1>
+
+<h1>Sup netizen, looking around?</h1>
 <img src="https://github.com/0xAquora/0xAquora/blob/main/assets/fondo-animado.gif" alt="Aquora banner"/>
-</body>
 
 <!--
 **0xAquora/0xAquora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
